@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(36, 1, 104);
+    text-align: center;
+    padding:10px;
+}
+header h1{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+nav,footer{
+    background-color: rgb(37, 37, 37);
+    overflow: hidden;
+    align-self: center;
+}
+footer a,nav a{
+    color: azure;
+    display:block;
+    float:left;
+    padding-left: auto;
+    padding:15px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+header img{
+    float:left;
+    width:100px;
+    height:80px;
+    border:2px solid #000;
+    border-radius:45px;
+}
